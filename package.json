@@ -1,0 +1,31 @@
+{
+  "name": "qf-vue-g2",
+  "version": "1.0.0",
+  "description": "A plugin for integrating G2 to Vue",
+  "main": "dist/vue-g2.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areyouse7en/qf-vue-g2.git"
+  },
+  "keywords": [
+    "vue",
+    "g2"
+  ],
+  "author": "Seven_Tao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/areyouse7en/qf-vue-g2/issues"
+  },
+  "homepage": "https://github.com/areyouse7en/qf-vue-g2#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
